@@ -1,2 +1,2 @@
 # Caterina-Tavares
-Página criada durante aprendizado de Bootstrap 4.
+Landing Page criada durante aprendizado de Bootstrap 4.
